@@ -21,5 +21,5 @@ The SVM model achieved the best supervised learning performance with about 90% t
 
 ## Files
 - `Predicting-NBA-Player-Positions-report.pdf` — Full project report
-- `NBA_Position_Project_Presentation.pptx` — Presentation slides
+- `NBA_Position_Project_Presentation.pdf` — Presentation slides
 - `Predicting-NBA-Player-Positions-code.R` — R source code
